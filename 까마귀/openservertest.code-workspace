@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../11월/2023-11-21/메일배포/농구"
+		}
+	],
+	"settings": {
+		"workbench.editor.enablePreview": false
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
